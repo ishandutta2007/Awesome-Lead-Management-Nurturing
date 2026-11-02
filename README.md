@@ -1,113 +1,122 @@
-# 🚀 Awesome-Lead-Management-Nurturing
+<div align="center">
 
-## 🌟 Top Lead Management & Nurturing Ecosystem
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Lead-Management-Nurturing/pulls)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Lead-Management-Nurturing)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects** 🎯  
-*Focused on Lead Scoring, Campaign Automation & Self-Hosted Marketing Platforms* 📈  
+<br/><br/>
+
+<img src="./assets/banner.svg" alt="Awesome Lead Management & Nurturing Banner" width="100%" />
+
+# 🚀 Awesome Lead Management & Nurturing
+
+**Curated Directory of Enterprise SaaS Solutions & Self-Hosted Open-Source Platforms** 🎯  
+*Supercharge B2B/B2C conversions with automated lead qualification, multi-touch nurture funnels, and predictive scoring engines.* 📈
+
 **Last updated: November 2026** 📅
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Lead Management & Nurturing**. These tools enable marketing and sales teams to capture leads, score their engagement, segment audiences, and automate personalized follow-up sequences—turning cold prospects into sales-ready opportunities without manual effort. ✨
+</div>
 
-**Examples** include HubSpot Lead Management, Marketo, Salesforce Marketing Cloud, ActiveCampaign, LeadSquared, Pipedrive, Keap, SharpSpring, Zoho CRM, and Ortto (the category leaders). 🏆
+---
 
-**Open-source emphasis**: Lead Management & Nurturing is a domain where open-source tooling has **genuinely matured, with Mautic as the clear standard for self-hosted marketing automation**. Mautic provides lead scoring, stages, segmentation, campaign builder, and email marketing under GPLv3—100% community-owned with no per-contact fees. **Helio** is the most ambitious modern alternative—an AGPL-3.0 licensed, AI-native growth platform with CDP, visual segmentation, Temporal-backed journeys, and a built-in MCP server for AI agents. For lead scoring specifically, **Horilla CRM** offers a configurable rules engine with per-factor weights alongside pipeline management. The critical caveat: **no open-source project matches the integrated CRM + marketing + sales automation** of HubSpot or the enterprise-scale orchestration of Marketo—open-source tools require assembly and infrastructure management. 💡
+## 📖 Overview
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites. 🤝
+**Lead Management & Nurturing** is the backbone of modern revenue operations (RevOps). It unites lead capture, data enrichment, engagement-based lead scoring, segmentation, and automated drip sequences across email, SMS, and web channels—turning cold prospects into sales-ready pipeline without manual bottlenecks.
+
+This repository tracks top **cloud SaaS platforms** and powerful **open-source CRM & marketing automation projects**, giving RevOps professionals, growth hackers, and software engineers an unbiased landscape to build or buy their sales pipeline tech stack.
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global **Lead Management & Marketing Automation Software Market** is estimated at **$12.5 Billion in 2026**, growing at a 13.8% CAGR toward $24.8 Billion by 2032. 
+
+The sector exhibits **moderate fragmentation with a consolidated enterprise core**: mega-platforms (Salesforce, Adobe, HubSpot) dominate Fortune 500 multi-channel orchestration with high vendor lock-in, while high-velocity SMBs and mid-market teams increasingly adopt modular, developer-friendly CRMs (Pipedrive, ActiveCampaign) or data-sovereign open-source solutions (Mautic, Helio, Twenty) for self-hosting and zero per-contact fees.
 
 ---
 
 ## 📑 Table of Contents
 
-- [☁️ SaaS/Hosted Platforms](#saas-products)
-- [💻 Open-Source GitHub Projects](#open-source-github-projects)
-- [🤝 How to Contribute](#how-to-contribute)
-- [⚠️ Disclaimer](#disclaimer)
+- [☁️ SaaS & Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsor](#-support--sponsor)
+- [⚠️ Disclaimer](#️-disclaimer)
 
 ---
 
-## ☁️ SaaS/Hosted Platforms
+## ☁️ SaaS & Hosted Platforms
 
-- **[HubSpot Lead Management](https://www.hubspot.com/)** 🟠  
-  Native lead capture, scoring, and nurturing within HubSpot's CRM; connects forms, landing pages, and email sequences directly to contact records and deal pipelines.
+> Sorted in descending order by company scale (**Market Cap / Enterprise Valuation / Annual Revenue**).
 
-- **[Adobe Marketo Engage](https://business.adobe.com/)** 🟣  
-  Enterprise marketing automation with lead scoring, nurture campaigns, and agentic AI embedded in workflows; supports complex multi-touch attribution and account-based marketing.
-
-- **[Salesforce Marketing Cloud](https://www.salesforce.com/)** ☁️  
-  Enterprise marketing platform with Journey Builder for cross-channel lead nurturing, Einstein AI for predictive scoring, and deep CRM integration.
-
-- **[ActiveCampaign](https://www.activecampaign.com/)** ✉️  
-  Marketing automation with behavior-triggered email sequences, lead scoring, and 1,000+ integrations; known for its visual automation builder and AI-suggested next actions.
-
-- **[LeadSquared](https://www.leadsquared.com/)** ⚡  
-  Sales CRM focused on lead capture, scoring, and nurture workflows; positioned for high-velocity sales teams.
-
-- **[Pipedrive](https://www.pipedrive.com/)** 📊  
-  Sales-focused CRM with lead management, pipeline tracking, and email marketing add-ons; known for simplicity and activity-based selling.
-
-- **[Keap](https://keap.com/)** 🔄  
-  CRM and marketing automation for small businesses; combines lead capture, scoring, and automated follow-up sequences.
-
-- **[SharpSpring](https://sharpspring.com/)**  spring 🎯  
-  Marketing automation platform (now part of Constant Contact) with lead scoring, nurture campaigns, and CRM integration.
-
-- **[Zoho CRM](https://www.zoho.com/crm/)** 💼  
-  Comprehensive CRM with lead scoring, workflow automation, and marketing integration within the Zoho ecosystem.
-
-- **[Ortto](https://ortto.com/)** 🧭  
-  Customer data platform and marketing automation; unifies lead data, scoring, and cross-channel journeys.
+| Platform | Company Valuation / Revenue | Starting Price | Free Tier / Free Trial Limits | Key Lead Management & Nurturing Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Marketing Cloud](https://www.salesforce.com/)** | ~$280B Market Cap (~$38B ARR) | $1,250/mo (Marketing Cloud Growth) | 30-day free trial (sandbox environment with sample data & limited sends) | Enterprise Journey Builder, Einstein 1 predictive lead scoring, omni-channel automated paths, deep CRM integration. |
+| **[Adobe Marketo Engage](https://business.adobe.com/)** | ~$220B Adobe Market Cap (~$21B ARR) | $895/mo (Growth tier estimate) | 14-day guided sandbox trial (demo instance with synthetic lead database) | Enterprise lead scoring models, complex account-based marketing (ABM), multi-touch attribution, agentic AI triggers. |
+| **[HubSpot Lead Management](https://www.hubspot.com/)** | ~$35B Market Cap (~$2.6B ARR) | $15/user/mo (Starter Customer Platform) | Free forever plan: 1,000 contacts, 5 active email lists, basic forms & landing pages (14-day trial for Professional) | Native lead capture, dynamic score degradation, multi-branch drip sequences, bi-directional pipeline sync. |
+| **[Zoho CRM](https://www.zoho.com/crm/)** | ~$1.4B ARR (~$15B Private Est.) | $14/user/mo (Standard billed annually) | Free forever plan: up to 3 users, 5,000 lead records, standard email templates (15-day trial on Ultimate) | Zia AI predictive lead win probability, lead routing rules, blueprint visual workflow designer, email cadence alerts. |
+| **[ActiveCampaign](https://www.activecampaign.com/)** | ~$3B Valuation (~$250M ARR) | $15/mo (Starter tier, 1,000 contacts) | 14-day free trial: up to 100 contacts and 100 email sends (no credit card required) | Behavior-triggered automations, engagement score degradation, visual sequence designer, predictive send times. |
+| **[Pipedrive](https://www.pipedrive.com/)** | ~$1.5B Valuation (~$180M ARR) | $14/user/mo (Lite billed annually) | 14-day free trial: full access to Advanced plan with unlimited pipeline creation (no credit card required) | Activity-based lead tracking, LeadBooster chatbot and web forms add-on, customizable visual pipelines. |
+| **[Keap](https://keap.com/)** | ~$80M ARR (~$500M Est. Value) | $249/mo (Pro tier, includes 1,500 contacts) | 14-day free trial: includes 500 test contacts and full access to Pro campaign builder | Visual campaign sequence builder, automated lead qualification surveys, integrated appointment scheduling. |
+| **[Ortto](https://ortto.com/)** | ~$25M ARR (~$200M Private Est.) | $99/mo (Professional tier, 5,000 contacts) | 14-day free trial: up to 5,000 contacts and 5,000 emails with journey builder enabled | Unified CDP + lead scoring engine, multi-channel journey mapping (Email, SMS, Webhooks), product-led growth analytics. |
+| **[LeadSquared](https://www.leadsquared.com/)** | ~$1B Valuation (Unicorn, ~$40M ARR) | $25/user/mo (Lite tier billed annually) | 14-day free trial: includes up to 500 leads with access to core sales execution workflows | High-velocity lead distribution rules, omnichannel capture, granular activity scoring, mobile lead tracking. |
+| **[SharpSpring](https://sharpspring.com/)** | Constant Contact Subsidiary (~$50M ARR) | $449/mo (includes 1,000 contacts) | 14-day free trial: access to full automation suite with guided onboarding specialist | Dynamic behavioral lead scoring, multi-variable email drip sequences, visitor ID tracking, built-in sales CRM. |
 
 ---
 
 ## 💻 Open-Source GitHub Projects
 
-### 🛠️ Marketing Automation Platforms (Mautic)
+> Open-source lead management and CRM engines give development and marketing teams absolute data privacy, self-hosted deployment (Docker / K8s), and zero per-contact fees.  
+> Sorted in descending order by **GitHub Star Count**.
 
-- **[Mautic](https://github.com/mautic/mautic)** 🌐  
-  The **world's largest open-source marketing automation platform** (GPLv3, 100% community-owned). Features: **lead scoring** with points, triggers, and groups; **stages** for tracking the marketing or sales funnel; **multichannel data collection** to fill customer profiles; **drag-and-drop campaign builder** for automated nurture workflows; **email marketing** with A/B testing and personalization; **dynamic web content**; and **GDPR compliance** tools for consent management, data reports, and erasure requests. **Self-hosting is unlimited**—no per-contact fees, no feature gates, no user limits; the only cost is infrastructure (roughly $5–15/month on Railway). **Caveats**: lacks predictive analytics, real-time sales alerts, and mobile apps; has a steeper learning curve than SaaS alternatives. **Best for organizations wanting a complete, self-hosted marketing automation platform** with full data sovereignty—the closest open-source equivalent to HubSpot's marketing hub.
+| Project & Repository | GitHub Stars | License | Core Lead Management & Nurturing Capabilities |
+| :--- | :--- | :--- | :--- |
+| **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | Modern TypeScript CRM designed as an extensible Notion/HubSpot alternative. Features visual custom pipelines, lead routing, task automation, PostgreSQL/GraphQL backend, and rich API hooks. |
+| **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | MIT | Real-time conversational customer engagement platform. Integrates live-chat lead qualification bots, multi-channel inbox (WhatsApp, Email, Telegram), automated campaign nudges, and CRM hooks. |
+| **[ERPNext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Comprehensive Python/Frappe enterprise suite featuring an integrated CRM module with automatic lead capture, email campaign sequences, opportunity stages, and lead conversion pipelines. |
+| **[Krayin CRM](https://github.com/krayin/laravel-crm)** | [![Stars](https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white)](https://github.com/krayin/laravel-crm/stargazers) | MIT | Modular Laravel-based open-source CRM with visual lead and deal Kanban boards, contact stages, email trigger actions, and custom attribute builders tailored for agile sales teams. |
+| **[Mautic](https://github.com/mautic/mautic)** | [![Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers) | GPL-3.0 | The de facto open-source marketing automation platform. Features rule-based lead scoring (points, triggers), drag-and-drop campaign journeys, dynamic landing pages, email A/B testing, and GDPR consent management. |
+| **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** | [![Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers) | AGPL-3.0 | Enterprise-grade self-hosted CRM (SugarCRM fork) with end-to-end lead lifecycle tracking, automated workflow engines, email marketing campaigns, and granular role permissions. |
+| **[EspoCRM](https://github.com/espocrm/espocrm)** | [![Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers) | AGPL-3.0 | Lightweight and fast single-page CRM application with customizable lead conversion flows, automated drip campaigns, sales stages, and REST API integrations. |
+| **[CiviCRM Core](https://github.com/civicrm/civicrm-core)** | [![Stars](https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white)](https://github.com/civicrm/civicrm-core/stargazers) | AGPL-3.0 | Purpose-built constituent relationship management for non-profits and civic organizations. Features donor/supporter lead segmentation, automated fundraising follow-ups, and email tracking. |
+| **[Liberu CRM](https://github.com/liberusoftware/crm-laravel)** | [![Stars](https://img.shields.io/github/stars/liberusoftware/crm-laravel?style=social&color=white)](https://github.com/liberusoftware/crm-laravel/stargazers) | Open-Source | Laravel-based multi-tenant CRM featuring integrated lead scoring, customizable sales pipelines, email tracking, landing page capture forms, and automated trigger rules. |
+| **[Horilla CRM](https://github.com/horilla/horilla-crm)** | [![Stars](https://img.shields.io/github/stars/horilla/horilla-crm?style=social&color=white)](https://github.com/horilla/horilla-crm/stargazers) | LGPL-2.1+ | Modern Django/SvelteKit HR & CRM software equipped with a configurable lead-scoring rules engine with per-factor weights, pipeline stages, and REST API endpoints. |
+| **[Helio](https://github.com/achref-soua/helio)** | [![Stars](https://img.shields.io/github/stars/achref-soua/helio?style=social&color=white)](https://github.com/achref-soua/helio/stargazers) | AGPL-3.0 | AI-native growth platform featuring visual nested segmentation, Temporal-backed durable nurture journeys, predictive churn/lead scoring, and an MCP server for AI agent automation. |
 
-### 🤖 AI-Native Growth Platforms (Helio)
+---
 
-- **[Helio](https://github.com/achref-soua/helio)** 🚀  
-  An **open-source, AI-native growth platform** (AGPL-3.0) positioned as a modern alternative to HubSpot and Mautic. Features: **Segment/RudderStack-compatible tracking API** for easy migration; **visual segmentation** with nested AND/OR builder; **email campaigns** with block-based builder and HMAC-signed click tracking; **durable journeys** on Temporal (survives crashes); **AI copilot** for natural-language segment/journey/email creation; **predictive lead scoring and churn**; **CRM-lite** with pipelines and deal boards; and an **MCP server** for AI agent access. **Benchmarks**: sustains ~20,000 events/s at p95 81ms in development testing. **Caveats**: newer and less community-validated than Mautic; requires more infrastructure (PostgreSQL, ClickHouse, Redpanda, Temporal) for full functionality. **Best for teams wanting a modern, AI-first marketing platform** with self-hosting and data sovereignty.
+## 📈 Star History
 
-### 🗃️ CRM with Lead Scoring (Horilla, Liberu)
-
-- **[Horilla CRM](https://github.com/horilla/horilla-crm)** 📋  
-  Free and open-source **HR and CRM software** (LGPL-2.1+) with lead management, pipeline tracking, and a **configurable lead-scoring rules engine** with per-factor weights. Features: role-based access control, REST API with Swagger/OpenAPI docs, webhooks, CSV/Excel import/export, and 20+ language translations. **Best for teams wanting a CRM with built-in lead scoring** and a modern Django/SvelteKit stack—but it is CRM-first, with less marketing automation depth than Mautic.
-
-- **[Liberu CRM](https://github.com/liberusoftware/crm-laravel)** 🏢  
-  Open-source **multi-tenant CRM** (Laravel) with contact, lead, opportunity, and deal management; includes **lead scoring**, sales pipelines, email tracking, marketing campaigns, forms, landing pages, and workflow automation. **Best for Laravel/PHP teams** wanting a full-featured CRM with marketing capabilities—but it is newer and less community-validated than Mautic or Horilla.
-
-### 📦 Additional Strong Open-Source Options
-
-- **customermates** 🤝 — Open-source TypeScript CRM positioned as a **more intuitive Pipedrive alternative**; automation-first with API/SDK/CLI, Docker/Kubernetes deployment, and 221 GitHub stars. **Best for developer teams** wanting an automation-centric CRM—but it is earlier-stage and less feature-dense than Mautic for marketing automation.
-
-- **PyCRMKit** 🐍 — Headless, framework-agnostic **CRM building blocks** for Python applications (MIT); provides leads, opportunities, pipelines, campaigns, segmentation, and automation as a library. **Best for developers** embedding CRM functionality into custom applications—not a turnkey lead management platform.
-
-🧩 **Frameworks for building custom systems**: For **complete marketing automation with lead scoring and campaigns**, Mautic is the mature standard. For **AI-native growth with durable journeys and predictive scoring**, Helio. For **CRM with built-in lead scoring**, Horilla or Liberu. **No open-source project matches the integrated CRM + marketing + sales automation** of HubSpot or the enterprise orchestration of Marketo—choose based on whether you need marketing depth (Mautic), AI-native workflows (Helio), or CRM-first lead management (Horilla).
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Lead-Management-Nurturing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Lead-Management-Nurturing&type=date&legend=top-left)
 
 ---
 
 ## 🤝 How to Contribute
 
-1. Fork the repo. 🍴
-2. Add/edit entries in `README.md` (follow existing format). ✍️
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source. 📝
-4. Submit PR with a short explanation. 🚀
+We welcome contributions from the community to keep this list comprehensive and up-to-date! 🌟
 
-⭐ Star the repo if you find it useful!
+1. Fork this repository 🍴
+2. Create your feature branch (`git checkout -b feature/add-new-tool`)
+3. Add the project or SaaS platform following the table format (include transparent pricing, trial terms, or star badges)
+4. Submit a Pull Request with a clear description of why the tool belongs here 🚀
+
+---
+
+## 💖 Support & Sponsor
+
+Thank you for exploring and using this curated resource! If you find this repository valuable:
+- ⭐ **Star** this repository to help others discover it!
+- 🍴 **Fork** it and build upon the curated insights!
+- 📢 **Share** it with fellow marketers, developers, and RevOps engineers!
+- ☕ **Buy a Coffee & Support**: Sponsor the ongoing maintenance and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
 ## ⚠️ Disclaimer
 
-- 📌 This is a **community-curated** list — not exhaustive and not an endorsement.
-- 🔒 Lead management platforms handling prospect data must comply with applicable privacy regulations (GDPR, CCPA, CAN-SPAM) and implement proper consent mechanisms; **self-hosted solutions place full responsibility for security patches, backups, and email deliverability on the operator**.
-- ⚖️ **Open-source lead management is mature for marketing automation**—Mautic provides lead scoring, campaigns, and segmentation, and Helio provides AI-native workflows. However, **no open-source project matches the integrated CRM + marketing + sales automation** of HubSpot or the enterprise-scale orchestration of Marketo. **Mautic lacks predictive analytics and mobile apps**; Helio is newer and less validated. Choose based on whether you need proven marketing automation (Mautic), AI-native workflows (Helio), or CRM-first lead scoring (Horilla).
-- 📜 Verify license terms for commercial use; Mautic uses GPLv3, Helio uses AGPL-3.0, Horilla uses LGPL-2.1+, and Liberu is open-source (check repository).
-
----
-
-✨ **Made for marketing operations teams, sales leaders, and organizations choosing their lead management and nurturing stack.**  
-Let's make lead management more open, but with clear eyes about the integrated CRM and enterprise marketing gaps that commercial platforms still fill. 🚀
+- 📌 This is a **community-curated directory** intended for informational and educational purposes — listings do not constitute commercial endorsements.
+- 🔒 Lead management systems handling prospective customer information must comply with international privacy standards (GDPR, CCPA, CAN-SPAM). Self-hosted platforms place the complete responsibility for server security, email deliverability, and data integrity on the operator.
+- 📜 Always verify software license terms prior to production or enterprise commercial deployment.
