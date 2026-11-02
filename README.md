@@ -70,9 +70,9 @@ The sector exhibits **moderate fragmentation with a consolidated enterprise core
 ## 💻 Open-Source GitHub Projects
 
 > Open-source lead management and CRM engines give development and marketing teams absolute data privacy, self-hosted deployment (Docker / K8s), and zero per-contact fees.  
-> Sorted in descending order by **GitHub Star Count**.
+> Sorted in descending order by **GitHub Stars_Count**.
 
-| Project & Repository | GitHub Stars | License | Core Lead Management & Nurturing Capabilities |
+| Project & Repository | GitHub_Stars | License | Core Lead Management & Nurturing Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | AGPL-3.0 | Modern TypeScript CRM designed as an extensible Notion/HubSpot alternative. Features visual custom pipelines, lead routing, task automation, PostgreSQL/GraphQL backend, and rich API hooks. |
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** | [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | MIT | Real-time conversational customer engagement platform. Integrates live-chat lead qualification bots, multi-channel inbox (WhatsApp, Email, Telegram), automated campaign nudges, and CRM hooks. |
@@ -100,7 +100,7 @@ We welcome contributions from the community to keep this list comprehensive and 
 
 1. Fork this repository 🍴
 2. Create your feature branch (`git checkout -b feature/add-new-tool`)
-3. Add the project or SaaS platform following the table format (include transparent pricing, trial terms, or star badges)
+3. Add the project or SaaS platform following the table format (include transparent pricing, trial terms, or Stars_Badges)
 4. Submit a Pull Request with a clear description of why the tool belongs here 🚀
 
 ---
