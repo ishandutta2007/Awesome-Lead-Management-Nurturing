@@ -70,7 +70,7 @@ The sector exhibits **moderate fragmentation with a consolidated enterprise core
 ## 💻 Open-Source GitHub Projects
 
 > Open-source lead management and CRM engines give development and marketing teams absolute data privacy, self-hosted deployment (Docker / K8s), and zero per-contact fees.  
-> Sorted in descending order by **GitHub Stars_Count**.
+> Sorted in descending order by **GitHub_Stars_Count**.
 
 | Project & Repository | GitHub_Stars | License | Core Lead Management & Nurturing Capabilities |
 | :--- | :--- | :--- | :--- |
